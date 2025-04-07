@@ -82,6 +82,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@samansalari](https://github.com/samansalari)
+Saman - [@samansalari](https://github.com/samansalari)
 
 Project Link: [https://github.com/samansalari/Food-Delivery](https://github.com/samansalari/Food-Delivery) 
